@@ -2,7 +2,7 @@
 
 ⚡ A fork of hyper-solarized-dark for Hyper Terminal.
 
-![Solarized Dark Hyper](https://www.dropbox.com/s/mkwkek1mmwupght/hyperterm-solarized-dark.png?raw=1)
+![Screenshot](img/screenshots/screenshot.png)
 
 # What's different?
 I've modified some colors from which I thought were a little too dark. Some colors are now more 'alive', but I left the background color original.
