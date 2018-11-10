@@ -1,7 +1,7 @@
 {
-  "name": "hyper-solarized-dark",
-  "version": "0.1.4",
-  "description": "Hyper theme using the dark Solarized colors",
+  "name": "hyper-solarized",
+  "version": "0.5.0",
+  "description": "A fork of hyper-solarized-dark for Hyper Terminal.",
   "main": "index.js",
   "keywords": [
     "hyperterm",
@@ -10,19 +10,21 @@
     "hyper-theme",
     "colors",
     "theme",
-    "solarized"
+    "solarized",
+    "dark",
+    "hyper-solarized"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ghosh/hyper-solarized-dark.git"
-  },
-  "author": "Indrashish Ghosh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Ghosh/hyper-solarized-dark/issues"
-  },
-  "homepage": "https://github.com/Ghosh/hyper-solarized-dark#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keesvv/hyper-solarized.git"
+  },
+  "author": "Kees van Voorthuizen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keesvv/hyper-solarized/issues"
+  },
+  "homepage": "https://github.com/keesvv/hyper-solarized#readme"
 }
