@@ -19,4 +19,4 @@ I've modified some colors from which I thought were a little too dark. Some colo
   ],
   ```
 
-5. Reload Hyper by pressing `Cmd + Shft + R` If this doesn't work, try closing and reopening Hyper.
+5. Reload Hyper by pressing `Cmd + Shift + R` If this doesn't work, try closing and reopening Hyper.
