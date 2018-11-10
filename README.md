@@ -1,25 +1,21 @@
-# Solarized Dark theme for Hyper
+# Hyper Solarized
 
-A port of the [Solarized Dark](http://ethanschoonover.com/solarized) theme for [Hyper.app](https://hyper.is)
+⚡ A fork of hyper-solarized-dark for Hyper Terminal.
 
 ![Solarized Dark Hyper](https://www.dropbox.com/s/mkwkek1mmwupght/hyperterm-solarized-dark.png?raw=1)
 
-### Installation
-1. Open Hyper's preferences by pressing `Cmd + ,`.
-2. Find and Update the plugins array to include `hyper-solarized-dark`:  
+# What's different?
+I've modified some colors from which I thought were a little too dark. Some colors are now more 'alive', but I left the background color original.
+
+# Installation
+1. Type the following command in your Terminal emulator:
+2. Open the file `.hyper.js` in your favorite text editor or access Hyper's preferences by pressing `Cmd + ,`.
+3. Modify the `plugins` array to include `hyper-solarized`:  
 
   ```js
   plugins: [  
-    'hyper-solarized-dark'  
+    'hyper-solarized'  
   ],
   ```
 
-3. Reload Hyper by pressing `Cmd + Shft + R`
-
-
-### Related
-- [Solarized Light Theme](https://github.com/Ghosh/hyper-solarized-light)
-
-```
-License - MIT
-```
+4. Reload Hyper by pressing `Cmd + Shft + R` If this doesn't work, try closing and reopening Hyper.
