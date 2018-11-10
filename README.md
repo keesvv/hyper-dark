@@ -1,5 +1,7 @@
 # Hyper Dark
 
+[![npm](https://img.shields.io/npm/v/hyper-dark.svg?style=flat-square)](https://www.npmjs.com/package/hyper-dark)
+
 ⚡ A fork of hyper-solarized-dark for Hyper Terminal.
 
 ![Screenshot](https://raw.githubusercontent.com/keesvv/hyper-solarized/master/img/screenshots/screenshot.png)
