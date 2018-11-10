@@ -8,9 +8,10 @@
 I've modified some colors from which I thought were a little too dark. Some colors are now more 'alive', but I left the background color original.
 
 # Installation
-1. Type the following command in your Terminal emulator:
-2. Open the file `.hyper.js` in your favorite text editor or access Hyper's preferences by pressing `Cmd + ,`.
-3. Modify the `plugins` array to include `hyper-solarized`:  
+1. Open your Terminal emulator and navigate to `~/.hyper_plugins`
+2. Use `npm i @keesvv/hyper-solarized` to install `hyper-solarized`
+3. Open the file `.hyper.js` in your favorite text editor or access Hyper's preferences by pressing `Cmd + ,`.
+4. Modify the `plugins` array to include `hyper-solarized`:  
 
   ```js
   plugins: [  
@@ -18,4 +19,4 @@ I've modified some colors from which I thought were a little too dark. Some colo
   ],
   ```
 
-4. Reload Hyper by pressing `Cmd + Shft + R` If this doesn't work, try closing and reopening Hyper.
+5. Reload Hyper by pressing `Cmd + Shft + R` If this doesn't work, try closing and reopening Hyper.
