@@ -1,6 +1,7 @@
 # Hyper Dark
 
 [![npm](https://img.shields.io/npm/v/hyper-dark.svg?style=flat-square)](https://www.npmjs.com/package/hyper-dark)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/hyper-dark.svg?style=flat-square)](https://www.npmjs.com/package/hyper-dark)
 
 ⚡ A fork of hyper-solarized-dark for Hyper Terminal.
 
