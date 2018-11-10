@@ -1,25 +1,25 @@
 const backgroundColor = '#002b36'
-const foregroundColor = '#839496'
-const cursorColor = 'rgba(181, 137, 0, 0.6)'
+const foregroundColor = '#9db3b7'
+const cursorColor = 'rgba(106, 247, 240, 0.5)'
 const borderColor = 'transparent'
 
 const colors = {
-  lightBlack:     '#586e75',
+  lightBlack:     '#8a979b',
   black:          '#073642',
-  lightGreen:     '#586e75',
+  lightGreen:     '#42f4aa',
   lightYellow:    '#657b83',
-  lightBlue:      '#839496',
+  lightBlue:      '#75c8ef',
   lightCyan:      '#93a1a1',
-  white:          '#eee8d5',
+  white:          '#fffaef',
   lightWhite:     '#fdf6e3',
-  yellow:         '#b58900',
+  yellow:         '#ceba08',
   lightRed:       '#cb4b16',
   red:            '#dc322f',
   magenta:        '#d33682',
   lightMagenta:   '#6c71c4',
   blue:           '#268bd2',
   cyan:           '#2aa198',
-  green:          '#859900'
+  green:          '#74b201'
 }
 
 
