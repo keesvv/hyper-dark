@@ -1,5 +1,5 @@
 {
-  "name": "@keesvv/hyper-solarized",
+  "name": "hyper-dark",
   "version": "0.5.2",
   "description": "A fork of hyper-solarized-dark for Hyper Terminal.",
   "main": "index.js",
