@@ -1,6 +1,6 @@
 {
   "name": "hyper-dark",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "A fork of hyper-solarized-dark for Hyper Terminal.",
   "main": "index.js",
   "keywords": [

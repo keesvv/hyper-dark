@@ -9,7 +9,7 @@ const colors = {
   lightGreen:     '#42f4aa',
   lightYellow:    '#657b83',
   lightBlue:      '#75c8ef',
-  lightCyan:      '#93a1a1',
+  lightCyan:      '#7affff',
   white:          '#fffaef',
   lightWhite:     '#fdf6e3',
   yellow:         '#ceba08',
